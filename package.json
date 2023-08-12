@@ -28,6 +28,7 @@
     "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
+    "nodemon": "^3.0.1",
     "prettier": "3.0.0"
   }
 }
